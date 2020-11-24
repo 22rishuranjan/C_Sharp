@@ -1,0 +1,12 @@
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.exe
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.deps.json
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.runtimeconfig.json
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.runtimeconfig.dev.json
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.dll
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.csproj.CoreCompileInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.dll
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Badmonster\C#\DesignPattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+D:\Badmonster\C#\DesignPattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+D:\Badmonster\C#\DesignPattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+D:\Badmonster\C#\DesignPattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\Badmonster\C#\DesignPattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+D:\Badmonster\C#\DesignPattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+D:\Badmonster\C#\DesignPattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+D:\Badmonster\C#\DesignPattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+D:\Badmonster\C#\DesignPattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+D:\Badmonster\C#\DesignPattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

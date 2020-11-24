@@ -1,0 +1,13 @@
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csprojAssemblyReference.cache
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.exe
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.deps.json
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.json
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.runtimeconfig.dev.json
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.dll
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\bin\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.dll
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\LiskovSubstitution\obj\Debug\netcoreapp3.1\LiskovSubstitution.genruntimeconfig.cache

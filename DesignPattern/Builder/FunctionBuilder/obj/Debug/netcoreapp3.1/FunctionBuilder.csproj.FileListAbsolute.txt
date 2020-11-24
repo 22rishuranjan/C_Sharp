@@ -1,0 +1,3 @@
+D:\Badmonster\C#\DesignPattern\Builder\FunctionBuilder\obj\Debug\netcoreapp3.1\FunctionBuilder.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\Builder\FunctionBuilder\obj\Debug\netcoreapp3.1\FunctionBuilder.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\Builder\FunctionBuilder\obj\Debug\netcoreapp3.1\FunctionBuilder.csproj.CoreCompileInputs.cache

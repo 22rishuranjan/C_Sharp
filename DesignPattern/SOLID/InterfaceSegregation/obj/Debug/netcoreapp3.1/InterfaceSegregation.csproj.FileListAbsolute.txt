@@ -1,0 +1,13 @@
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.exe
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.deps.json
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.runtimeconfig.json
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.runtimeconfig.dev.json
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.dll
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\bin\Debug\netcoreapp3.1\InterfaceSegregation.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.csprojAssemblyReference.cache
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.csproj.CoreCompileInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.dll
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\InterfaceSegregation\obj\Debug\netcoreapp3.1\InterfaceSegregation.genruntimeconfig.cache

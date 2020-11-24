@@ -1,0 +1,12 @@
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache

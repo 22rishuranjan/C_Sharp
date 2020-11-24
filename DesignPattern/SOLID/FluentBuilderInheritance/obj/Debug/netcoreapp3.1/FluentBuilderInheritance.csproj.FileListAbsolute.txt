@@ -1,0 +1,12 @@
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\obj\Debug\netcoreapp3.1\FluentBuilderInheritance.AssemblyInfoInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\obj\Debug\netcoreapp3.1\FluentBuilderInheritance.AssemblyInfo.cs
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\obj\Debug\netcoreapp3.1\FluentBuilderInheritance.csproj.CoreCompileInputs.cache
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\bin\Debug\netcoreapp3.1\FluentBuilderInheritance.exe
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\bin\Debug\netcoreapp3.1\FluentBuilderInheritance.deps.json
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\bin\Debug\netcoreapp3.1\FluentBuilderInheritance.runtimeconfig.json
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\bin\Debug\netcoreapp3.1\FluentBuilderInheritance.runtimeconfig.dev.json
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\bin\Debug\netcoreapp3.1\FluentBuilderInheritance.dll
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\bin\Debug\netcoreapp3.1\FluentBuilderInheritance.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\obj\Debug\netcoreapp3.1\FluentBuilderInheritance.dll
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\obj\Debug\netcoreapp3.1\FluentBuilderInheritance.pdb
+D:\Badmonster\C#\DesignPattern\SOLID\FluentBuilderInheritance\obj\Debug\netcoreapp3.1\FluentBuilderInheritance.genruntimeconfig.cache
